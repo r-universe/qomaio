@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rhli"]
+	path = rhli
+	url = https://github.com/qomaio/rhli
+	shallow = true
+	registered = true
